@@ -1,0 +1,16 @@
+# Andmed ja mudelikaalud (ärge laadige neid Git-i!)
+data/
+input/
+output/
+*.csv
+*.parquet
+*.pt
+*.safetensors
+*.bin
+
+# Pythoni vahemälud
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+.vscode/
